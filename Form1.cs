@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -112,6 +112,10 @@ namespace WindowsFormsApp70
                 timer1.Enabled = false;
                 DialogResult mesaj = MessageBox.Show("Boss Saati geldi", "ALARM", MessageBoxButtons.OKCancel);
                 axWindowsMediaPlayer1.URL = @"C:\Users\Steady\Documents\Visual Studio 2017\Projects\WindowsFormsApp70\WindowsFormsApp70\bin\Debug\muzik\1.mp3";
+                if (mesaj == DialogResult.OK)
+                {
+                    axWindowsMediaPlayer1.URL = "";
+                }
 
 
             }
@@ -131,35 +135,55 @@ namespace WindowsFormsApp70
                 timer1.Enabled = false;
                 axWindowsMediaPlayer1.URL = @"C:\Users\Steady\Documents\Visual Studio 2017\Projects\WindowsFormsApp70\WindowsFormsApp70\bin\Debug\muzik\1.mp3";
                 DialogResult mesaj = MessageBox.Show("Boss Saati geldi", "ALARM", MessageBoxButtons.OKCancel);
-               
+                if (mesaj == DialogResult.OK)
+                {
+                    axWindowsMediaPlayer1.URL = "";
+                }
+
             }
             if (comboBox1.Text == "Harpy-Queen" && label1.Text == "6")
             {
                 timer1.Enabled = false;
                 axWindowsMediaPlayer1.URL = @"C:\Users\Steady\Documents\Visual Studio 2017\Projects\WindowsFormsApp70\WindowsFormsApp70\bin\Debug\muzik\1.mp3";
                 DialogResult mesaj = MessageBox.Show("Boss Saati geldi", "ALARM", MessageBoxButtons.OKCancel);
-              
+                if (mesaj == DialogResult.OK)
+                {
+                    axWindowsMediaPlayer1.URL = "";
+                }
+
             }
             if (comboBox1.Text == "Samma" && label1.Text == "6")
             {
                 timer1.Enabled = false;
                 axWindowsMediaPlayer1.URL = @"C:\Users\Steady\Documents\Visual Studio 2017\Projects\WindowsFormsApp70\WindowsFormsApp70\bin\Debug\muzik\1.mp3";
                 DialogResult mesaj = MessageBox.Show("Boss Saati geldi", "ALARM", MessageBoxButtons.OKCancel);
-             
+                if (mesaj == DialogResult.OK)
+                {
+                    axWindowsMediaPlayer1.URL = "";
+                }
+
             }
             if (comboBox1.Text == "Deruvish Founder" && label2.Text == "6")
             {
                 timer1.Enabled = false;
                 axWindowsMediaPlayer1.URL = @"C:\Users\Steady\Documents\Visual Studio 2017\Projects\WindowsFormsApp70\WindowsFormsApp70\bin\Debug\muzik\1.mp3";
                 DialogResult mesaj = MessageBox.Show("Boss Saati geldi", "ALARM", MessageBoxButtons.OKCancel);
-               
+                if (mesaj == DialogResult.OK)
+                {
+                    axWindowsMediaPlayer1.URL = "";
+                }
+
             }
             if (comboBox1.Text == "Shaula" && label1.Text == "6")
             {
                 timer1.Enabled = false;
                 axWindowsMediaPlayer1.URL = @"C:\Users\Steady\Documents\Visual Studio 2017\Projects\WindowsFormsApp70\WindowsFormsApp70\bin\Debug\muzik\1.mp3";
                 DialogResult mesaj = MessageBox.Show("Boss Saati geldi", "ALARM", MessageBoxButtons.OKCancel);
-                
+                if (mesaj == DialogResult.OK)
+                {
+                    axWindowsMediaPlayer1.URL = "";
+                }
+
             }
 
             if (label1.Text == textBox1.Text && label2.Text == textBox2.Text)
