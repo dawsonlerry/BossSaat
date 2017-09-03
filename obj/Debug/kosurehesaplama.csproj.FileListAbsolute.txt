@@ -1,0 +1,15 @@
+C:\Users\Steady\Documents\Visual Studio 2017\Projects\WindowsFormsApp70\WindowsFormsApp70\bin\Debug\WindowsFormsApp70.exe.config
+C:\Users\Steady\Documents\Visual Studio 2017\Projects\WindowsFormsApp70\WindowsFormsApp70\bin\Debug\WindowsFormsApp70.exe
+C:\Users\Steady\Documents\Visual Studio 2017\Projects\WindowsFormsApp70\WindowsFormsApp70\bin\Debug\WindowsFormsApp70.pdb
+C:\Users\Steady\Documents\Visual Studio 2017\Projects\WindowsFormsApp70\WindowsFormsApp70\bin\Debug\Interop.WMPLib.dll
+C:\Users\Steady\Documents\Visual Studio 2017\Projects\WindowsFormsApp70\WindowsFormsApp70\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Steady\Documents\Visual Studio 2017\Projects\WindowsFormsApp70\WindowsFormsApp70\obj\Debug\Interop.WMPLib.dll
+C:\Users\Steady\Documents\Visual Studio 2017\Projects\WindowsFormsApp70\WindowsFormsApp70\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Steady\Documents\Visual Studio 2017\Projects\WindowsFormsApp70\WindowsFormsApp70\obj\Debug\kosurehesaplama.csproj.ResolveComReference.cache
+C:\Users\Steady\Documents\Visual Studio 2017\Projects\WindowsFormsApp70\WindowsFormsApp70\obj\Debug\WindowsFormsApp70.Form1.resources
+C:\Users\Steady\Documents\Visual Studio 2017\Projects\WindowsFormsApp70\WindowsFormsApp70\obj\Debug\WindowsFormsApp70.Properties.Resources.resources
+C:\Users\Steady\Documents\Visual Studio 2017\Projects\WindowsFormsApp70\WindowsFormsApp70\obj\Debug\kosurehesaplama.csproj.GenerateResource.Cache
+C:\Users\Steady\Documents\Visual Studio 2017\Projects\WindowsFormsApp70\WindowsFormsApp70\obj\Debug\kosurehesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Steady\Documents\Visual Studio 2017\Projects\WindowsFormsApp70\WindowsFormsApp70\obj\Debug\WindowsFormsApp70.exe
+C:\Users\Steady\Documents\Visual Studio 2017\Projects\WindowsFormsApp70\WindowsFormsApp70\obj\Debug\WindowsFormsApp70.pdb
+C:\Users\Steady\Documents\Visual Studio 2017\Projects\WindowsFormsApp70\WindowsFormsApp70\obj\Debug\kosurehesaplama.csprojResolveAssemblyReference.cache
